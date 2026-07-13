@@ -1,58 +1,69 @@
-<p align="left">Hello welcome, I'm João<br><br>Tec. em Informática pelo IFRN, Atualmente Graduando em Tecnologia da Informação na UFRN</p>
+<div align="center">
+  
+  # 👨‍💻 Olá, eu sou o João Marcelo!
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3382FF&center=true&vCenter=true&width=435&lines=Tec.+em+Inform%C3%A1tica+-+IFRN;Graduando+em+TI+-+UFRN;Desenvolvedor+de+Software" alt="Typing SVG" />
 
-###
-
-<h3 align="left">languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Stats</h3>
+## 🚀 Sobre mim
 
-###
+- 🎓 Técnico em Informática pelo **IFRN**
+- 📚 Atualmente graduando em Tecnologia da Informação pela **UFRN**
+- 💡 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloJoao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloJoao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloJoao&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-###
+---
+
+## 📊 Estatísticas do GitHub
+
+> *Nota: Às vezes os gráficos levam alguns segundos para carregar, pois são gerados em tempo real.*
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/pEgkgGn9aFUAAAAC/pulando-de-alegria-rindo.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloJoao&show_icons=true&theme=tokyonight" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloJoao&layout=donut&theme=tokyonight" height="150" alt="Linguagens mais usadas" />
 </div>
 
-###
+<br>
 
-<h3 align="left">Social Media</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloJoao&bg_color=1a1b27&color=70a5fd&line=3382FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de Atividades" />
+</div>
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/ joão-marcelo-souza-50206b220" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+## 🔗 Me encontre nas redes
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joão-marcelo-souza-50206b220" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/joao586_souza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
-###
+<br>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/pEgkgGn9aFUAAAAC/pulando-de-alegria-rindo.gif" width="180" />
+</div>
